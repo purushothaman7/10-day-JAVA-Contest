@@ -33,3 +33,8 @@ Note: In case of triangle, you can consider the sides as height and length of ba
 #### Output Format
 
 • For each test case, print the area of the shape
+![](https://github.com/purushothaman7/10-day-JAVA-Contest/blob/main/day1/Screenshot%202022-11-22%20102735.png)
+
+
+#### Sample input and output:
+![](https://github.com/purushothaman7/10-day-JAVA-Contest/blob/main/day1/Screenshot%202022-11-22%20102640.png)
